@@ -3,5 +3,5 @@
 - 👀 I’m interested in ARTIFICIAL INTELLIGENCE.
 - 💞️ I’m looking to collaborate on AI projects.
 - 💬 Ask me about EDA Projects
-- 📫 How to reach me: LinkedIn -> www.linkedin.com/in/keshav-sharma-a432781a3/
 - ⚡ Fun fact: I love Witcher Saga 
+- 📫 How to reach me: LinkedIn -> https://www.linkedin.com/in/sanket-chouriya-038705111/
