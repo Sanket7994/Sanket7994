@@ -5,3 +5,7 @@
 - 💬 Ask me about EDA Projects
 - ⚡ Fun fact: I love Witcher Saga 
 - 📫 How to reach me: LinkedIn -> https://www.linkedin.com/in/sanket-chouriya-038705111/
+
+---
+
+### :fire: My Stats :
