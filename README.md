@@ -10,4 +10,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sanket7994&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sanket7994&theme=highcontrast)](https://git.io/streak-stats)
