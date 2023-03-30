@@ -10,11 +10,12 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sanket7994&theme=highcontrast)](https://git.io/streak-stats)            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket7994&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sanket7994&theme=highcontrast)](https://git.io/streak-stats)            
 
-<!-- ---
+---
 
 ### 💻 Programming Languages:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket7994&layout=compact&theme=highcontrast)](https://github.com/Sanket7994/github-readme-stats)
 
---- -->
+---
