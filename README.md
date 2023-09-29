@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 👋 Hi, I’m @Sanket7994
-- 🌱 I’m a Backend Web Developer.
+- 🌱 I’m a Back-end Developer.
 - 👀 I’m interested in ARTIFICIAL INTELLIGENCE.
 - 💞️ I’m looking to collaborate on AI projects.
 - 💬 Ask me about EDA and Web Projects
